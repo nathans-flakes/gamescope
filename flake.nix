@@ -25,8 +25,8 @@
             libdrm
             vulkan-headers
             vulkan-loader
-            wayland
-            wayland-protocols
+            unstable.wayland
+            unstable.wayland-protocols
             libxkbcommon
             libcap
             SDL2
